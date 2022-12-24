@@ -1,0 +1,1 @@
+Hello! Enter the string of characters you would like compressed here, upon one compression, please reset this file to another string.
